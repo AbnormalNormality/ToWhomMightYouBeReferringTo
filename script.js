@@ -7,3 +7,5 @@ window.onload = function () {
         height: 200
     });
 }
+
+console.log(currentUrl);
