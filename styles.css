@@ -99,6 +99,11 @@ li ul {
     margin-left: auto;
 }
 
+.subtitle {
+    text-align: center;
+    color: #777
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #333;
