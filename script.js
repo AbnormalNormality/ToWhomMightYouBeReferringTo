@@ -8,4 +8,8 @@ window.onload = function () {
     });
 }
 
-console.log(currentUrl);
+
+playLinkSound = function () {
+    var audio = new Audio("assets/link sound.mp3");
+    audio.play();
+}
