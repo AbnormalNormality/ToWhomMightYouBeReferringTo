@@ -10,6 +10,6 @@ window.onload = function () {
 
 
 playLinkSound = function () {
-    var audio = new Audio("assets/link sound.mp3");
+    var audio = new Audio("assets/link sound.mp4");
     audio.play();
 }
